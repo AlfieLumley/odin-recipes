@@ -1,6 +1,5 @@
 # odin-recipes
-
-Before:
+Pre-Project Notes:
 This is my very first attempt at building a website!
 
 I'm following the steps set out by the Odin Project.
@@ -8,7 +7,7 @@ I'm following the steps set out by the Odin Project.
 I can't wait to get started
 
 
-After:
+First attempt complete:
 
 That's my very first attempt at building a basic HTML site complete. 
 
