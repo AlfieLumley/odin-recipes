@@ -1,11 +1,11 @@
 # odin-recipes
+
+PROJECT: Odin Project Lasagna Recipe site (with Index Homepage)
+
 Pre-Project Notes:
 This is my very first attempt at building a website!
 
-I'm following the steps set out by the Odin Project.
-
-I can't wait to get started
-
+I'm following the steps set out by the Odin Project. I can't wait to get started
 
 First attempt complete:
 
@@ -22,4 +22,10 @@ the image correctly on the site.
 
 Now, it's time for me to learn the basics of CSS so I can begin improving the layout
 of the site and make it look more appealing
+
+14/4/2023 15:41
+Updated the site to make the text easier to read and the steps easier to follow for the lasagna recipe.
+I realised that I had made coded the ordered and unordered list for the ingredients and steps incorrectly.
+I pasted the text into the list and I didnt add the individual <li> and </li> tags for each item.
+This has now been updated and the lists are now clear and easy to read as well as looking much better.
 
